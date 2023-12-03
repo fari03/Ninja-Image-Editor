@@ -1,6 +1,8 @@
 # Ninja Image Editor
 
-Ninja Image Editor is a simple web-based image editing tool that allows users to apply various filters and transformations to images. It provides an intuitive interface for adjusting saturation, and brightness, applying grayscale, inversion, and performing rotations and flips.
+Ninja Image Editor is a simple web-based image editing tool that allows users to apply various filters and transformations to images. It provides an intuitive interface for adjusting saturation, and brightness, applying grayscale, inversion, and performing rotations and flips
+![111](https://github.com/fari03/Ninja-Image-Editor/assets/92734995/8f67a2ea-907e-4e4d-b0a1-dd48f695fb01)
+
 
 ## Features
 

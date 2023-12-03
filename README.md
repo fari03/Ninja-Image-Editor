@@ -1,6 +1,6 @@
 # Ninja Image Editor
 
-Ninja Image Editor is a simple web-based image editing tool that allows users to apply various filters and transformations to images. It provides an intuitive interface for adjusting saturation, brightness, applying grayscale, inversion, and performing rotations and flips.
+Ninja Image Editor is a simple web-based image editing tool that allows users to apply various filters and transformations to images. It provides an intuitive interface for adjusting saturation, and brightness, applying grayscale, inversion, and performing rotations and flips.
 
 ## Features
 
@@ -19,3 +19,19 @@ To use Ninja's Image Editor, follow these simple steps:
 
    ```bash
    git clone https://github.com/your-username/image-editor.git
+   Open index.html in your web browser.
+
+2. Add an image using the "Add Image" button, then explore and apply various editing features.
+
+3. Save the edited image using the "Save Image" button.
+
+# Technologies Used
+HTML
+CSS
+JavaScript
+Contributing
+If you'd like to contribute to Ninja's Image Editor, please follow the contributing guidelines.
+
+# Acknowledgments
+Boxicons - Icons used in the project.
+Font Awesome - Icons used in the project.
